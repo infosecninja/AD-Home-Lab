@@ -6,9 +6,9 @@ Active Directory, a powerful directory service developed by Microsoft, centraliz
 
 
 ## Objective
-```
+
 This project guides users, from beginners to advanced learners, in setting up a basic home lab with Active Directory. By creating a fully functional Active Directory environment, users can learn, experiment, and simulate real-world scenarios.
-```
+
 
 ## Lab Setup
 ```
@@ -184,6 +184,4 @@ Building a home lab with Active Directory provides a unique opportunity to gain 
 of this powerful technology. This project offers step-by-step guidance for beginners and valuable insights for those with advanced knowledge. Understanding 
 Active Directory and its features is crucial for IT professionals in network administration, security, and system management roles. Invest in your professional 
 growth by acquiring skills in Active Directory to open doors to exciting opportunities in the IT field and advance your career.
-
-```
 
