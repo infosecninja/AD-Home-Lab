@@ -2,9 +2,8 @@
 
 ## Introduction
 
-```
 Active Directory, a powerful directory service developed by Microsoft, centralizes user management, enhances security, and simplifies administrative tasks within a network environment. This project offers a valuable opportunity to establish a strong foundation and gain hands-on experience by creating a home lab with Active Directory.
-```
+
 
 ## Objective
 ```
@@ -157,7 +156,6 @@ Perform the following steps on both machines:
 ## Turn on Network Discovery
 
 ```
-
 1. Go to “Computer” > “Network”.
 2. Click OK when prompted and click “Turn on network discovery…” in the top menu bar.
 ```
@@ -182,7 +180,10 @@ Check if both computers are added.
 ```
 ## Conclusion
 
-```
-Building a home lab with Active Directory provides a unique opportunity to gain practical experience, expand knowledge, and develop skills in this essential technology. By setting up your Active Directory lab environment, you’ll have a platform to expand your knowledge, sharpen your skills, and unlock the potential of this powerful technology. This project offers step-by-step guidance for beginners and valuable insights for those with advanced knowledge. Understanding Active Directory and its features is crucial for IT professionals in network administration, security, and system management roles. Invest in your professional growth by acquiring skills in Active Directory to open doors to exciting opportunities in the IT field and advance your career.
+Building a home lab with Active Directory provides a unique opportunity to gain practical experience, expand knowledge, and develop skills in this essential technology. By setting up your Active Directory lab environment, you’ll have a platform to expand your knowledge, sharpen your skills, and unlock the potential 
+of this powerful technology. This project offers step-by-step guidance for beginners and valuable insights for those with advanced knowledge. Understanding 
+Active Directory and its features is crucial for IT professionals in network administration, security, and system management roles. Invest in your professional 
+growth by acquiring skills in Active Directory to open doors to exciting opportunities in the IT field and advance your career.
+
 ```
 
